@@ -7,3 +7,10 @@ Create a separate page for the website. Where users from various online sourses 
 -[Instagram](#Instagram)
 -[Tiktok](#TikTok)
 -[Google](#Google)
+
+# 2nd Issue - Add an enquiry form.
+This form captures information of the audience.
+### Contents
+-[Email](#Email)
+-[Phone_number](#Phone_number)
+-[Course_of_interest](#Course_of_interest)
