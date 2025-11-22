@@ -14,3 +14,9 @@ This form captures information of the audience.
 -[Email](#Email)
 -[Phone_number](#Phone_number)
 -[Course_of_interest](#Course_of_interest)
+
+# 3rd Issue - Create a drop down under course of interest
+Create a dropdown with a list of courses so that the user can sellect their course of interest.
+-[Software Engineering](#Software_Engineering)
+-[Digital Marketing](Digital_Marketing)
+-[Mechanical Engineering](Mechanical_Engineering)
